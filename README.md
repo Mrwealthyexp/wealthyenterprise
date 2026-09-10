@@ -1,2 +1,3 @@
 # wealthyenterprise
-Web3-native AI workspace with wallet-based login, self-hosted "unlimited" AI, and team collaboration tools.
+
+WealthyExpress Hub scaffold for a Web3-native AI workspace with a Next.js frontend, optional API service, shared packages, and deployment configuration.

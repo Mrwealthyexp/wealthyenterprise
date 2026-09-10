@@ -1,0 +1,8 @@
+model_list:
+  - model_name: workspace-default
+    litellm_params:
+      model: openai/gpt-4o-mini
+      api_base: http://ai-gateway:4001
+      api_key: not-used-in-scaffold
+router_settings:
+  routing_strategy: simple-shuffle

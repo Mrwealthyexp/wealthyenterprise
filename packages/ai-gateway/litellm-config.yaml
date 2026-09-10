@@ -1,0 +1,6 @@
+model_list:
+  - model_name: workspace-default
+    litellm_params:
+      model: openai/gpt-4o-mini
+      api_base: http://localhost:4001
+      api_key: not-used-in-scaffold

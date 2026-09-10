@@ -5,7 +5,7 @@ const items = [
   { href: '/agents', label: 'Agents' },
   { href: '/docs', label: 'Docs' },
   { href: '/settings', label: 'Settings' },
-];
+] as const;
 
 export function DashboardNav() {
   return (
